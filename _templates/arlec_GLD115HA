@@ -12,3 +12,5 @@ category: bulb
 type: CCT
 standard: e27
 ---
+
+The bulb has hardware Gamma Correction included, you need to 'LedTable 0'
